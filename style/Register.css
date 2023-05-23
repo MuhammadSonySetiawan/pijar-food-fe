@@ -1,0 +1,11 @@
+.image-fluid {
+width: 300%;
+height: 170%;
+}
+
+@media only screen and (max-width: 768px) {
+    img{
+    display: none;
+    visibility: hidden;
+    }
+}
