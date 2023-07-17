@@ -23,22 +23,34 @@ Aplikasi Pijar food FE adalah aplikasi tutorial pembuatan berbagai macam makanan
 ## Screenshots
 <table>
  <tr>
-    <td><img width="350px" src="./screenshot/login.png" border="0" alt="Login" /></td>
-    <td> <img width="350px" src=".screenshot/register.png" border="0"  alt="Register" /></td>
-    <td><img width="350px" src="./screenshot/Home.png" border="0" alt="Home" /> </td>
+    <td><img width="800px" src="./screenshot/login.png" border="0" alt="Login" /></td>
   </tr>
   <tr>
     <td>Login</td>
+  </tr>
+ <tr>
+  <td><img width="800px" src="./screenshot/register.png" border="0" alt="Register" /></td>
+ </tr>
+  <tr>
     <td>Register</td>
-    <td>Home</td>
+  </tr>
+ <tr>
+  <td><img width="800px" src="./screenshot/Home.png" border="0" alt="Home" /> </td>
+ </tr>
+  <tr>
+   <td>Home</td>
   </tr>
   <tr>
-    <td><img width="350px" src="./screenshot/edd-recipe.png" border="0" alt="Add-recipe" /> </td>
-    <td><img width="350px" src="./screenshot/profile.png" border="0" alt="Profile" /> </td>
+    <td><img width="800px" src="./screenshot/edd-recipe.png" border="0" alt="Add-recipe" /> </td>
   </tr>
    <tr>
-    <td>Profile</td>
     <td>Add Recipe</td>
+  </tr>
+ <tr>
+   <td><img width="800px" src="./screenshot/profile.png" border="0" alt="Profile" /> </td>
+ </tr>
+ <tr>
+     <td>Profile</td>
   </tr>
 </table>
 
