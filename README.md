@@ -33,7 +33,6 @@ Aplikasi Pijar food FE adalah aplikasi tutorial pembuatan berbagai macam makanan
     <td>Home</td>
   </tr>
   <tr>
-    
     <td><img width="350px" src="./screenshot/edd-recipe.png" border="0" alt="Add-recipe" /> </td>
     <td><img width="350px" src="./screenshot/profile.png" border="0" alt="Profile" /> </td>
   </tr>
