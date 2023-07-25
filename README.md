@@ -20,6 +20,14 @@ Aplikasi Pijar food FE adalah aplikasi tutorial pembuatan berbagai macam makanan
 ## Requirement
 - Bootstrep 5 or leter
 
+## Instal
+The Food Recipe website can run locally on your machine. Please download this repository and open it using Visual Studio Code. Then, execute the following commands in the terminal.
+```sh
+cd pijar-food-fe
+npm i
+npm start
+```
+
 ## Screenshots
 <table>
  <tr>
